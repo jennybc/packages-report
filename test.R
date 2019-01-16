@@ -6,3 +6,5 @@
 
 ipt <- installed.packages()
 nrow(ipt)
+
+## a comment added on GitHub
